@@ -1,0 +1,5 @@
+{
+  "name": "Image Magic",
+  "description": "An app to edit, analyze, and creatively transform your photos using the AI. Edit images with text prompts, get AI-powered analysis, or 'time travel' by placing yourself in historical scenes.",
+  "requestFramePermissions": []
+}
